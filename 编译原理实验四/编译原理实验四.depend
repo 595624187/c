@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1577675293 source:e:\编程工具大全\codeblocks\c语言文件\编译原理实验四\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+	<map>
+	<string>
+	<cstdio>
+
+1577250181 source:e:\编程工具大全\codeblocks\c语言文件\编译原理实验三\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<algorithm>
+	<cstdlib>
+	<vector>
+	<string>
+	<cctype>
+	<map>
+	<set>
+

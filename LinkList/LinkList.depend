@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1539926835 source:c:\users\worldfa\documents\c语言文件\linklist\main.cpp
+	<stdio.h>
+	<stdlib.h>
+
+1539937687 source:c:\users\worldfa\documents\c语言源文件\linklist\main.cpp
+	<stdio.h>
+	<stdlib.h>
+

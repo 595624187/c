@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1577704010 source:e:\编程工具大全\codeblocks\c语言文件\编译原理实验1\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

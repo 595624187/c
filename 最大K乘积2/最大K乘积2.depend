@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554992626 source:e:\编程工具大全\codeblocks\c语言文件\最大k乘积2\main.cpp
+	<iostream>
+	<fstream>
+
